@@ -1,4 +1,4 @@
-************************************************* SQL ADVENTURE WORKS ********************************************************************
+*********************************************** SQL ADVENTURE WORKS *****************************************************
 SOURCE: https://sqlzoo.net/wiki/AdventureWorks_easy_questions
 
 Q1:Show the first name and the email address of customer with CompanyName 'Bike World'
